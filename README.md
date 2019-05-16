@@ -24,4 +24,5 @@ Can add different users for chat
 Has new alerts in password and for logout 
 has back buttons for all screens
 
-http://g.recordit.co/9p7WJvs7yP.gif
+<img src='http://g.recordit.co/9p7WJvs7yP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
